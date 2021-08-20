@@ -1,0 +1,13 @@
+//Table Creation "TEST1"
+CREATE TABLE TEST1( 
+test_id INT, 
+student_name VARCHAR(20), 
+Grade VARCHAR(50), 
+Overall_Performance VARCHAR(50))
+
+//Values Insertion 
+INSERT INTO TEST1(test_id,student_name,Grade,Overall_Performance) VALUES(1,' Divya','A','Excellent');
+INSERT INTO TEST1(test_id,student_name,Grade,Overall_Performance) VALUES(2,'Suhas','D','Poor');
+INSERT INTO TEST1(test_id,student_name,Grade,Overall_Performance) VALUES(3,'Aishwarya','B','Good');
+INSERT INTO TEST1(test_id,student_name,Grade,Overall_Performance) VALUES(4,'Abhirup','A','Excellent');
+INSERT INTO TEST1(test_id,student_name,Grade,Overall_Performance) VALUES(5,'Abhishek','C','Average');
