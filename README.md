@@ -1,15 +1,17 @@
 # DIVYA_QAT
-This repository contains two java file and a jdbc program wriiten in a text file .
+This repository contains  5 java files and a jdbc program wriiten in a text file .
 
 Java program problem Statement1:
 Create an List of Strings where you take n elements from user. Reverse the order of strings entered and print it.
 Example:
 INPUT:Hey how are you 
 OUTPUT:you are how Hey
+java file:StringReverse
 
 Java Problem Statement2:
 Create an interface BankAccount, which is is having two abstract methods checkBankBalance and validateUser.  This interface is being implemented by two classes SavingsAccount and CurrentAccount. 
 Write a Main class where you create objects of child classes and call its methods.
+Java Files:BanAcc,CurrentAccount,SavingSAccount,Run(MainClass)
 
 JDBC problem statement:
 Write a JDBC Program in which first you create a connection with Oracle database Update a record in an existing table where id = 3 and then fetch and print all the records data as output in java.
