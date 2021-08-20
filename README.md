@@ -1,5 +1,6 @@
 # DIVYA_QAT
-This repository contains two java file and a jdbc program wriiten in a text file 
+This repository contains two java file and a jdbc program wriiten in a text file .
+
 Java program problem Statement1:
 Create an List of Strings where you take n elements from user. Reverse the order of strings entered and print it.
 Example:
